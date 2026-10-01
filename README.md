@@ -81,4 +81,10 @@ Neo4j · Cypher · Neo4j Graph Data Science (PageRank) · Prompt engineering · 
 
 ---
 
-👩‍💻 **Nosaiba Elkrekshi** · Master 2 Data & IA · [LinkedIn](https://www.linkedin.com/in/nosaiba-elkrekshi) · nosaiba.elkrekshi@gmail.com
+👩‍💻 **Nosaiba Elkrekshi** · 
+
+Master 2 Data & IA · 
+
+[LinkedIn](https://www.linkedin.com/in/nosaiba-elkrekshi) · 
+
+nosaiba.elkrekshi@gmail.com
